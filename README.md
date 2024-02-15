@@ -31,8 +31,8 @@ Copy this in dependencies in pom.xml in your Maven project
 ## Installation for Gradle
 Copy this in dependencies
 ```
-// https://mvnrepository.com/artifact/com.google.code.gson/gson
-implementation group: 'com.google.code.gson', name: 'gson', version: '2.10.1'
+// https://mvnrepository.com/artifact/com.m2kdevelopments.lindle
+implementation group: 'com.m2kdevelopments.lindle', name: 'gson', version: '2.10.1'
 ```
 
 
