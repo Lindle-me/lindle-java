@@ -29,7 +29,7 @@ Copy this in dependencies in pom.xml in your Maven project
 ```
 
 ## Installation for Gradle
-Copy this in dependencies
+Copy this to the dependencies section in gradle file
 ```
 // https://mvnrepository.com/artifact/com.m2kdevelopments.lindle
 implementation group: 'com.m2kdevelopments.lindle', name: 'gson', version: '2.10.1'
