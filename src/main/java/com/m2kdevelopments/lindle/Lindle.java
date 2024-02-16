@@ -4,9 +4,9 @@
  *  github: https://github.com/m2kdevelopments
  */
 
-package lindle;
+package com.m2kdevelopments.lindle;
 
-import lindle.utils.API;
+import com.m2kdevelopments.lindle.utils.API;
 
 public class Lindle {
     final API api;

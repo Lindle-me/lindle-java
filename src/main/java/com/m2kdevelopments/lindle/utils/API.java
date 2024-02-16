@@ -1,4 +1,4 @@
-package lindle.utils;
+package com.m2kdevelopments.lindle.utils;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

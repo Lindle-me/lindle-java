@@ -1,4 +1,4 @@
-package lindle.classes;
+package com.m2kdevelopments.lindle.classes;
 
 public class Folder {
     final String id;
